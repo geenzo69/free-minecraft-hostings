@@ -1,5 +1,6 @@
 # Free Minecraft Hostings
-**Free Minecraft Hostings** (FMCHS) is a big list of free minecraft hostings in the entire world! (Updated frequently)# STILL IN DEVELOPMENT!
+**Free Minecraft Hostings** (FMCHS) is a big list of free minecraft hostings in the entire world! (Updated frequently)
+# STILL IN DEVELOPMENT!
 | 👀 Name | 💪 CPU | 🧠 Memory | 💼 Disk | 🎩 Max Servers | 🌏 Locations | |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | NetherHosting | 100% | 2GB | 10GB | 2 | 🇺🇸 | [Join discord](https://www.google.com) |
