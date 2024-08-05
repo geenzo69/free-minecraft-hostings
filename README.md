@@ -7,4 +7,6 @@
 
 Join our discord server to have best experience!\
 Join our discord server to request a new one!
-![Join Discord](https://miro.medium.com/v2/resize:fit:800/1*_AsB_hCguMYC-wEG2Bidmw.png)
+[![Join Discord](https://miro.medium.com/v2/resize:fit:800/1*_AsB_hCguMYC-wEG2Bidmw.png)](https://discord.gg/9NMhteWZYc)
+
+# In Development!!!
